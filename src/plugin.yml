@@ -1,0 +1,10 @@
+name: EventTitle
+main: me.pixel.event.Main
+author: Pixel
+version: 1.0
+api-version: 1.13
+
+commands:
+   oevent:
+      description: Sends a title to every player on a server
+      permission: oevent.broadcast
